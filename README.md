@@ -12,13 +12,9 @@ Scraper.py<br/>
 Mapping.py<br/>
   -The teams from the lines xml do not always match with those from KenPom<br/>
   -This script adjusts the names so that they match. If you aren't getting a game, check this file and adjust the name here<br/>
-
-<br/>
 <br/>
 Schedule.py
   -Parses the xml live lines tree to retrieve NCAA games for the night.
-  
-<br/>
 <br/>
 Final note, the spread always reflects the home team. -2 means that the home team is +2. Yea I know it's confusing...
   
